@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="word_colors">
+        <item>@color/word_cyan</item>
+        <item>@color/word_green</item>
+        <item>@color/word_orange</item>
+        <item>@color/word_red</item>
+        <item>@color/word_yellow</item>
+        <item>@color/word_blue</item>
+        <item>@color/word_light_blue</item>
+        <item>@color/word_purple</item>
+    </array>
+</resources>

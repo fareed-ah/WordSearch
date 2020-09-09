@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="word_green">#9BE466</color>
+    <color name="word_yellow">#EBDC51</color>
+    <color name="word_cyan">#46E8A8</color>
+    <color name="word_orange">#FEC978</color>
+    <color name="word_blue">#52B1FC</color>
+    <color name="word_light_blue">#3EE0EF</color>
+    <color name="word_purple">#836EE3</color>
+    <color name="word_red">#F58491</color>
+
+</resources>
