@@ -33,9 +33,9 @@ git clone https://github.com/fareed-ah/WordSearch.git
 ## Screenshots
 <img src="images/HomeScreen.png" width="200px"/>
 <img src="images/Image1.png" width="200px"/>
-<img src="images/LevelComplete.png" width="200px"/>
 <img src="images/Image2.png" width="200px"/>
 <img src="images/Image3.png" width="200px"/>
+<img src="images/LevelComplete.png" width="200px"/>
 
 
 
